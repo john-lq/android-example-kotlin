@@ -13,12 +13,15 @@ This is some examples in Android. It's written by Kotlin language.
   - Create a [Selector](https://developer.android.com/guide/topics/resources/drawable-resource#selector-element)
   - [Tutorial Video](https://youtu.be/2T1u5fs-Umw)
 - [TwoActivity](https://github.com/john-lq/android-example-kotlin/tree/master/TwoActivity):
-  - Learning about how to start an activity.
-  - Sending data from an activity to the other.
+  - Starting a new activity with an intent.
+  - Passing data between activities with extras.
+  - Navigating between activities.
   - Receiving data from an activity when it's finished.
+  - [Tutorial Video](https://youtu.be/z8rd62Rv3r0)
 - [VerticalScrollView](https://github.com/john-lq/android-example-kotlin/tree/master/VerticalScrollView):
   - Adding view into [ScrollView](https://developer.android.com/reference/android/widget/ScrollView) in the layout file.
   - Adding view into ScrollView dynamically.
+  - [Tutorial Video](https://youtu.be/Qr5I0uMy3G8)
 - [HorizontalScrollView](https://github.com/john-lq/android-example-kotlin/tree/master/HorizontalScrollView):
   - Adding view into [HorizontalScrollView](https://developer.android.com/reference/android/widget/HorizontalScrollView) in the layout file.
   - Adding view into HorizontalScrollView dynamically.
