@@ -1,1 +1,1 @@
-include ':ButtonClick', ':TwoActivity', ':ButtonBackground', ':VerticalScrollView', ':HorizontalScrollView', ':WebView'
+include ':ButtonClick', ':TwoActivity', ':ButtonBackground', ':VerticalScrollView', ':HorizontalScrollView', ':WebView', ':ImplicitIntentForDialing'
