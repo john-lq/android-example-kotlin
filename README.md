@@ -8,6 +8,7 @@ This is some examples in Android. It's written by Kotlin language.
 # Table of contents
 - [ButtonClick](https://github.com/john-lq/android-example-kotlin/tree/master/ButtonClick): 
   - Three ways handle the button(view) click event.
+  - [Tutorial Video](https://www.youtube.com/watch?v=EZB7FTKbMlE)
 - [TwoActivity](https://github.com/john-lq/android-example-kotlin/tree/master/TwoActivity):
   - Learning about how to start an activity.
   - Sending data from an activity to the other.
