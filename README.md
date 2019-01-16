@@ -27,3 +27,10 @@ This is some examples in Android. It's written by Kotlin language.
   - Adding view into [HorizontalScrollView](https://developer.android.com/reference/android/widget/HorizontalScrollView) in the layout file.
   - Adding view into [HorizontalScrollView](https://developer.android.com/reference/android/widget/HorizontalScrollView) dynamically.
   - [Tutorial Video](https://youtu.be/ZyJmu_9DMsQ)
+
+- [ImplicitIntentForDialing](https://github.com/john-lq/android-example-kotlin/tree/master/ImplicitIntentForDialing):
+  - How to create an implicit intend?
+  - Uses implicit intend for starting an activity.
+  - Uses implicit intend for dialing phone number
+  - Handles an exception if there is not registered activity that matches the request.
+  - [Tutorial Video](https://youtu.be/6jBrcviclLE)
