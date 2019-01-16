@@ -20,8 +20,9 @@ This is some examples in Android. It's written by Kotlin language.
   - [Tutorial Video](https://youtu.be/z8rd62Rv3r0)
 - [VerticalScrollView](https://github.com/john-lq/android-example-kotlin/tree/master/VerticalScrollView):
   - Adding view into [ScrollView](https://developer.android.com/reference/android/widget/ScrollView) in the layout file.
-  - Adding view into ScrollView dynamically.
+  - Adding view into [ScrollView](https://developer.android.com/reference/android/widget/ScrollView) dynamically.
   - [Tutorial Video](https://youtu.be/Qr5I0uMy3G8)
 - [HorizontalScrollView](https://github.com/john-lq/android-example-kotlin/tree/master/HorizontalScrollView):
   - Adding view into [HorizontalScrollView](https://developer.android.com/reference/android/widget/HorizontalScrollView) in the layout file.
-  - Adding view into HorizontalScrollView dynamically.
+  - Adding view into [HorizontalScrollView](https://developer.android.com/reference/android/widget/HorizontalScrollView) dynamically.
+  - [Tutorial Video](https://youtu.be/ZyJmu_9DMsQ)
