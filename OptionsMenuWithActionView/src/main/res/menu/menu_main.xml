@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--collapseActionView flag indicates how to display widget when
+    the user is not interacting with it. If the widget is on the app bar
+    the app should display the widget as an icon
+    If the widget is on overflow menu the app should display as menu item.
+    when the user interacts this widget, it is expanded to display full the app bar-->
+    <item
+        android:id="@+id/iSearch"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>
