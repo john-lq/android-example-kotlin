@@ -41,3 +41,12 @@ This is some examples in Android. It's written by Kotlin language.
   - Inflate options menu by overriding onCreateOptionsMenu() method.
   - Handle click event on per menu item by using android.onClick attribute and overriding onOptionsItemSelected method.
   - [Tutorial Video](https://youtu.be/0N2ou3h0OYA)
+- [OptionsMenuWithActionView](https://github.com/john-lq/android-example-kotlin/tree/master/OptionsMenuWithActionView):
+  - How to create an options menu?
+  - Create a menu resource folder.
+  - Create XML menu resource.
+  - Add menu item, its icon and action view(SearchView).
+  - Inflate options menu by overriding onCreateOptionsMenu() method.
+  - Handle collapsing and expending action on SearchView.
+  - Handle typing/submitting a text on SearchView.
+  - [Tutorial Video](https://youtu.be/4M0mHsbCmJM)
