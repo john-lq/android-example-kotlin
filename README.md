@@ -59,3 +59,12 @@ This is some examples in Android. It's written by Kotlin language.
   - Get a reference to the ShareActionProvider.
   - Set the intent into the ShareActionProvider.
   - [Tutorial Video](https://youtu.be/O9wK1LbK3UM)
+- [FloatingContextMenu](https://github.com/john-lq/android-example-kotlin/tree/master/FloatContextMenu)
+  - How to create a floating context menu?
+  - Create a menu resource folder.
+  - Create an XML menu resource.
+  - Add menu item.
+  - Inflate options menu by overriding onCreateContextMenu() method.
+  - Handle menu item click by overriding onCreateContextMenu() method.
+  - Register for a view which can open the floating context menu.
+  - [Tutorial Video](https://youtu.be/rESfnpU6qWk)
