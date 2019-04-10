@@ -68,3 +68,10 @@ This is some examples in Android. It's written by Kotlin language.
   - Handle menu item click by overriding onCreateContextMenu() method.
   - Register for a view which can open the floating context menu.
   - [Tutorial Video](https://youtu.be/rESfnpU6qWk)
+- [SimpleEditText](https://github.com/john-lq/android-example-kotlin/tree/master/SimpleEditText)
+  - Using EditText
+  - Using inputType attribute.
+  - Watching what the user is typing.
+  - Using TextInputLayout and TextInputEditText.
+  - Defines the next view to give focus using android:nextFocusDown.
+  - [Tutorial Video](https://youtu.be/w5dFSDd8gmQ)
