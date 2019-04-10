@@ -1,1 +1,1 @@
-include ':ButtonClick', ':TwoActivity', ':ButtonBackground', ':VerticalScrollView', ':HorizontalScrollView', ':WebView', ':ImplicitIntentForDialing', ':OptionsMenu', ':OptionsMenuWithActionView', ':OptionsMenuWithActionProvider', ':FloatContextMenu'
+include ':ButtonClick', ':TwoActivity', ':ButtonBackground', ':VerticalScrollView', ':HorizontalScrollView', ':WebView', ':ImplicitIntentForDialing', ':OptionsMenu', ':OptionsMenuWithActionView', ':OptionsMenuWithActionProvider', ':FloatContextMenu', ':SimpleEditText'
