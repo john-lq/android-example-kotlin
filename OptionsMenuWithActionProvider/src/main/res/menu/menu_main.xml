@@ -2,6 +2,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/iShare"
           app:showAsAction="ifRoom"
-          app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+          app:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"
           android:title="Share"/>
 </menu>
