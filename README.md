@@ -75,3 +75,7 @@ This is some examples in Android. It's written by Kotlin language.
   - Using TextInputLayout and TextInputEditText.
   - Defines the next view to give focus using android:nextFocusDown.
   - [Tutorial Video](https://youtu.be/w5dFSDd8gmQ)
+- [EdittextWithVisiblePassword](https://github.com/john-lq/android-example-kotlin/tree/master/edittextwithvisiblepassword)
+  - Using EditText
+  - Make to show/hide password in the EditText.
+  - [Tutorial Video](https://youtu.be/MCA6kK5QL4U)
