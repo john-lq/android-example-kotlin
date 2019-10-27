@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="Camera"
+        android:drawableLeft="@drawable/ic_camera_alt_black_24dp"
+        android:drawableTop="@drawable/ic_camera_alt_black_24dp"
+        android:drawableBottom="@drawable/ic_camera_alt_black_24dp"
+        android:drawableRight="@drawable/ic_camera_alt_black_24dp"
+        android:drawablePadding="8dp"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:inputType="text"
+        android:drawableLeft="@drawable/ic_username_24dp"
+        android:drawableStart="@drawable/ic_username_24dp"
+        android:drawablePadding="8dp"
+        android:layout_margin="8dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:drawableLeft="@drawable/ic_password_24dp"
+        android:drawableStart="@drawable/ic_password_24dp"
+        android:drawablePadding="8dp"
+        android:inputType="textPassword"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:drawableLeft="@drawable/ic_sentiment_very_satisfied_24dp"
+        android:drawableStart="@drawable/ic_sentiment_very_satisfied_24dp"
+        android:drawablePadding="8dp"
+        android:text="Sign in"/>
+
+    <TextView
+        android:id="@+id/tvSetDrawableInCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="Set drawable in code"
+        android:drawablePadding="8dp"
+        android:layout_margin="8dp"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>
