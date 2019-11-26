@@ -109,3 +109,11 @@ This is some examples in Android. It's written by Kotlin language.
   - How to custom dropdown item for Spinner?
   - Using some expression in Kotlin.
   - [Tutorial Video](https://youtu.be/TmA1t941rNE)
+- [AutosizingTextView](https://github.com/john-lq/android-example-kotlin/tree/master/AutosizingTextView)
+  - How to Autosizing TextView / Auto Resize TextView in Android?
+  - Three ways to Autosizing TextView / Auto Resize TextView
+  - How to Autosizing TextView / Auto Resize TextView by Default?
+  - How to Autosizing TextView / Auto Resize TextView by Granularity?
+  - How to Autosizing TextView / Auto Resize TextView by Preset Sizes?
+  - Autosizing TextView / Auto Resize TextView programmatically or in xml layout and resources
+  - [Tutorial Video](https://youtu.be/5WUJbAgLj4Y)
