@@ -101,9 +101,11 @@ This is some examples in Android. It's written by Kotlin language.
   - Using some expression in Kotlin.
   - Using Kotlin null safe.
   - Pass data between activities.  
+  - [Tutorial Video](https://youtu.be/2S2ZyqLVn10)
 - [SpinnerCustomItem](https://github.com/john-lq/android-example-kotlin/tree/master/SpinnerCustomItem)
   - How to use Spinner?
   - How to use Spinner with BaseAdapter?
   - How to custom item for Spinner?
   - How to custom dropdown item for Spinner?
   - Using some expression in Kotlin.
+  - [Tutorial Video](https://youtu.be/TmA1t941rNE)
