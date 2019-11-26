@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/etTypeSomthing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Typing something"
+        android:inputType="textPersonName" />
+
+        <!--
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="112sp"
+        android:autoSizeStepGranularity="1sp"
+        -->
+    <TextView
+        android:id="@+id/tvDefault"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:maxLines="1"
+        android:text="Default"
+        android:textSize="50sp"
+        app:autoSizeTextType="uniform"/>
+
+    <TextView
+        android:id="@+id/tvGranularity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:maxLines="1"
+        android:text="Granularity"
+        android:textSize="50sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMaxTextSize="50sp"
+        app:autoSizeMinTextSize="8sp"
+        app:autoSizeStepGranularity="2sp"/>
+
+
+    <TextView
+        android:id="@+id/tvPresetSizes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:maxLines="1"
+        android:text="Preset Sizes"
+        android:textSize="50sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizePresetSizes="@array/autosizing_text_view"/>
+</LinearLayout>
