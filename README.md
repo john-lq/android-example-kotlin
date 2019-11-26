@@ -79,3 +79,31 @@ This is some examples in Android. It's written by Kotlin language.
   - Using EditText
   - Make to show/hide password in the EditText.
   - [Tutorial Video](https://youtu.be/MCA6kK5QL4U)
+- [TextViewWithDrawable](https://github.com/john-lq/android-example-kotlin/tree/master/TextViewWithDrawable)
+  - How to TextView drawable?
+  - We are able to do the same thing for all the views that extend from TextView.
+  - Adding a drawable to Right, Top, Left, or Bottom of the TextView, EditText, or Button in the .xml layout file.
+  - Adding a drawable to Right, Top, Left, or Bottom of the TextView, EditText, or Button using Kotlin language.
+  - We also add the space between the drawable and the text.
+  - Adding a drawable to TextView without using any ImageView
+  - [Tutorial Video](https://youtu.be/bQu64DmaNn8)
+- [ReadJsonFromAssetsFolder](https://github.com/john-lq/android-example-kotlin/tree/master/ReadJsonFromAssetsFolder)  
+  - How to create Assets folder with Android Studio?
+  - How to add a json file to the Assets folder?
+  - How to read a file from the Assets folder using Kotlin Language?
+  - How to read json string from json file?
+  - How to add a new library with Android Studio?
+  - How to parse Json String to Model by using Gson with Kotlin Language?
+  - [Tutorial Video](https://youtu.be/dxIDAJ_qkwg)
+- [Spinner](https://github.com/john-lq/android-example-kotlin/tree/master/Spinner)
+  - How to use Spinner?
+  - How to use Spinner with ArrayAdapter?
+  - Using some expression in Kotlin.
+  - Using Kotlin null safe.
+  - Pass data between activities.  
+- [SpinnerCustomItem](https://github.com/john-lq/android-example-kotlin/tree/master/SpinnerCustomItem)
+  - How to use Spinner?
+  - How to use Spinner with BaseAdapter?
+  - How to custom item for Spinner?
+  - How to custom dropdown item for Spinner?
+  - Using some expression in Kotlin.
